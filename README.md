@@ -13,7 +13,20 @@ https://www.tiktok.com/@natabetancurh1?_t=8oBpUxhkugP&_r=1)
 <a href="https://www.instagram.com/natabetancurh1?igsh=M3JzNTM1bnRqajdq&utm_source=qr">
     <img src="Imagenes/instagram.png" alt="Instagram" width="50" height="50">
 </a>
+<a href="https://open.spotify.com/show/5PTmuauXoGEhgue30Uspng?si=jd2zUl8OQhqJKEWqaYG9zg">
+    <img src="Imagenes/spotify.png" alt="Spotify" width="50" height="50">
+</a>
+<a href="https://www.youtube.com/@natabetancurh1">
+    <img src="Imagenes/youtube.png" alt="YouTube" width="50" height="50">
+</a>
+<a href="https://www.linkedin.com/in/nataliabetancurh?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
+    <img src="Imagenes/linkedin.png" alt="Linkedin" width="50" height="50">
+</a>
 
+
+
+<br>
+</br>
 
 Científica de datos con más de 5 años de experiencia en el desarrollo de tecnología e Inteligencia Artificial, además docente investigadora, con participación en proyectos financiados por el Ministerio de Ciencia y Tecnología de Colombia. Con formación en Ingeniería Biomédica, Ingeniería Electrónica y Maestría en Ingeniería enfocada en Robótica, certificada como Google Cloud Leader.
 
