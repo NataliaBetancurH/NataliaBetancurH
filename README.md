@@ -4,7 +4,7 @@
 <!-- [![Tik Tok](Imagenes/tiktok.png)](
 https://www.tiktok.com/@natabetancurh1?_t=8oBpUxhkugP&_r=1) -->
 <a href="https://www.tiktok.com/@natabetancurh1?_t=8oBpUxhkugP&_r=1">
-    <img src="Imagenes/tiktok.png" alt="Tik Tok" width="20" height="20">
+    <img src="Imagenes/tiktok.png" alt="Tik Tok" width="50" height="50">
 </a>
 [![Instagram](Imagenes/instagram.png)](https://www.instagram.com/natabetancurh1?igsh=M3JzNTM1bnRqajdq&utm_source=qr)
 [![Spotify](Imagenes/spotify.png)](https://open.spotify.com/show/5PTmuauXoGEhgue30Uspng?si=jd2zUl8OQhqJKEWqaYG9zg)
